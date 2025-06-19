@@ -2,7 +2,7 @@
 <html lang="id">
 <head>
     <meta charset="UTF-8">
-    <title>Portal Games</title>
+    <title>Portal Games Network</title>
     <link rel="icon" type="image/png" href="./logo.png" sizes="64x64"/>
     <link rel="apple-touch-icon" href="./logo.png" sizes="180x180"/>
     <style>
